@@ -1,0 +1,12 @@
+int variable_1=10, variable_2 =10, resultado;
+
+void setup()
+{
+ 
+}
+
+void draw()
+{
+  variable_1-=2;
+  println(variable_1);
+}
